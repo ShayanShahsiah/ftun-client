@@ -1,0 +1,11 @@
+ORIGIN = 'meek.ramennoodles.net.global.prod.fastly.net'
+DEFAULT_BIND_IP = '127.0.0.1'
+DEFAULT_BIND_PORT = 9080
+DEFAULT_FRONT_HOST = 'www.drupal.org'
+BUF_LEN = 65536
+RECV_BUF = 16384
+SHORTEN_ERRS = True
+SEL_TIMEOUT = 4
+CONN_TIMEOUT = 5
+INIT_TIMEOUT = 7
+DNS_TIMEOUT = 4.5
