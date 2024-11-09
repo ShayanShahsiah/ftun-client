@@ -1,7 +1,7 @@
 ORIGIN = 'meek.ramennoodles.net.global.prod.fastly.net'
 DEFAULT_BIND_IP = '127.0.0.1'
 DEFAULT_BIND_PORT = 9080
-DEFAULT_FRONT_HOST = 'www.drupal.org'
+DEFAULT_FRONT_HOST = 'www.python.org'
 BUF_LEN = 65536
 RECV_BUF = 16384
 SHORTEN_ERRS = True
