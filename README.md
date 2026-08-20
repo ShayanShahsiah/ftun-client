@@ -1,6 +1,6 @@
 # ftun-client
 
-A domain-fronting TCP tunnel client. It listens on a local TCP port and relays each
+A domain-fronting TCP tunnel client to bypass internet censorship. It listens on a local TCP port and relays each
 connection to a hidden origin server through a CDN, disguising the traffic as an ordinary
 HTTPS request to an innocuous, unrelated domain.
 
